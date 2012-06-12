@@ -30,5 +30,5 @@ public final class ImageURIs {
 	public static final String DESCR_LABLE = "images/descr.label.gif";
 	public static final String DESCR_CHECKED = "images/descr.checked.gif";
 	public static final String DESCR_UNCHECKED = "images/descr.unchecked.gif";
-	public static final String DESCR_NULL_VALUE = "images/descr.null.png";
+	//public static final String DESCR_NULL_VALUE = "images/descr.null.png";
 }
