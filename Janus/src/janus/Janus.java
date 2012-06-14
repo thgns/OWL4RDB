@@ -20,6 +20,7 @@ public class Janus {
 	}
 	
 	private static void setLookAndFeel() {
+		System.out.println("Hello World");
 		SwingUtilities.invokeLater(new Runnable() {
 			public void run() {
 				try {
